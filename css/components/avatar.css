@@ -1,0 +1,13 @@
+.avatar {
+	text-align: center;
+}
+
+.avatar img {
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	text-align: center;
+}
+.avatar h1 {
+	color: #E56357;
+}
